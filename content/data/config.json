@@ -9,7 +9,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Terra",
-        "logo": "images/classic/logo.svg",
+        "logo": "images/Terra First Logo.png",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
