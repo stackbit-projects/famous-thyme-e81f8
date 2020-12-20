@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Terra is building the future of live-work
+    title: 'Terra is building the future of live-work '
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
