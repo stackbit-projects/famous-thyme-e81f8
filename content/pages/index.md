@@ -5,8 +5,8 @@ sections:
     title: 'Terra is building the future of live-work '
     subtitle: 'Invite Wonder '
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+      Terra is building the foundation for startup cities through
+      micro-communities and remote-work hubs. 
     actions:
       - label: Try Free
         url: /pricing
