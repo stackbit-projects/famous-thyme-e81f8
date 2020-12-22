@@ -11,7 +11,7 @@ sections:
       - label: Enter Email
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Join Terra
         url: /features
         style: secondary
     image: images/ancient-ephesus-0.jpg
