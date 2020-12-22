@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Terra is building the future of live-work '
+    title: Terra is building the future of live-work  & startup cities
     subtitle: 'Invite Wonder '
     content: >-
       Terra is building the foundation for startup cities through
