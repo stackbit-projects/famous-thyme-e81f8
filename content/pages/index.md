@@ -257,7 +257,7 @@ sections:
         image: images/dianne-ameter.jpg
         image_position: top
       - title: Matt Nick
-        subtitle: Developer Advocate
+        subtitle: Co-Founder & CTO
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
