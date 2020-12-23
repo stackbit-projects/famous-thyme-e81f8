@@ -254,7 +254,7 @@ sections:
       - title: D'Arcy Young
         subtitle: Co-Founder & COO
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/Darcy pic.jpeg
         image_position: top
       - title: Matt Nick
         subtitle: Co-Founder & CTO
