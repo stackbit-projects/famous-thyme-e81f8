@@ -18,7 +18,7 @@ sections:
         content: 'Looking to partner with us? Send us a note and we will be in touch! '
         content_align: center
         actions:
-          - label: ''
+          - label: Contact Us
             url: /general-enquiries
             style: primary
             has_icon: true
