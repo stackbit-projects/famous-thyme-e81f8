@@ -256,7 +256,7 @@ sections:
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
-      - title: Hugh Saturation
+      - title: Matt Nick
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
