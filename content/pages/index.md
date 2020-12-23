@@ -252,7 +252,7 @@ sections:
         image: images/LinkedIn World Pic.JPG
         image_position: top
       - title: D'Arcy Young
-        subtitle: Software Engineer
+        subtitle: C
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
