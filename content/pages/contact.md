@@ -15,9 +15,7 @@ sections:
     grid_items:
       - title: Partnering and Sponsorships
         title_align: center
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam.
+        content: 'Looking to partner with us? Send us a note and we will be in touch! '
         content_align: center
         actions:
           - label: Get Support
