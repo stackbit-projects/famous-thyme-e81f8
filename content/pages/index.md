@@ -8,7 +8,7 @@ sections:
       Terra is building the foundation for startup cities through
       micro-communities and remote-work hubs. 
     actions:
-      - label: Email
+      - label: Join Terra Slack
         url: /pricing
         style: primary
       - label: Join Terra Waitlist
