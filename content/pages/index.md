@@ -259,7 +259,7 @@ sections:
       - title: Matt Nick
         subtitle: Co-Founder & CTO
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/Matt Nick pic.jpeg
         image_position: top
       - title: Hilary Ouse
         subtitle: Operations Manager
